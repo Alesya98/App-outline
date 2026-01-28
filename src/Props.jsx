@@ -19,7 +19,7 @@ const Props = () => {
           “properties”) — это механизм передачи данных между компонентами в
           React.
         </p>
-        <img src="../public/props.png" alt="props" loading="lazy" />
+        <img src="/public/props.png" alt="props" loading="lazy" />
       </div>
 
       <div className="props">
@@ -28,12 +28,12 @@ const Props = () => {
           деструктуризацию props
         </p>
 
-        <img src="../public/props1.png" alt="props" loading="lazy" />
+        <img src="/public/props1.png" alt="props" loading="lazy" />
       </div>
 
       <div className="props">
         <p>Props поддерживают любые типы данных</p>
-        <img src="../public/read-props.png" alt="props" loading="lazy" />
+        <img src="/public/read-props.png" alt="props" loading="lazy" />
       </div>
 
       <p style={{ color: "red" }}>

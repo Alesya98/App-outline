@@ -18,7 +18,7 @@ function App() {
     <div className={`app ${theme}`}>
       <div className="upp">
         <a href="#" className="logo" >
-          <img src="../public/logo.png" alt="Logo" width="50px" height="50px" loading="lazy"/>
+          <img src="/public/logo.png" alt="Logo" width="50px" height="50px" loading="lazy"/>
         </a>
         
         <nav>

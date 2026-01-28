@@ -17,16 +17,16 @@ const Context = () => {
       <h3>Использование Context</h3>
       <div className="page-step">
         <p> 1️⃣Шаг: Создание контекста</p>
-        <img src="../public/step1.png" alt="шаг 1" loading="lazy" />
+        <img src="/public/step1.png" alt="шаг 1" loading="lazy" />
       </div>
       <div className="page-step">
         <p> 2️⃣Шаг: Предоставление значения контекста</p>
-        <img src="../public/step2.png" alt="шаг 2" loading="lazy" />
+        <img src="/public/step2.png" alt="шаг 2" loading="lazy" />
       </div>
       <div className="page-step">
         <p>3️⃣Шаг: Использование хука useContext</p>
         <img
-          src="../public/step3.png"
+          src="/public/step3.png"
           alt="шаг3"
           loading="lazy"
           width="300px"

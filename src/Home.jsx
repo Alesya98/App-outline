@@ -1,7 +1,7 @@
 const Home = () => {
   return (
     <div className="home">
-      <img className="home-img" src="../public/react.webp" alt="react" />
+      <img className="home-img" src="/public/react.webp" alt="react" />
       <p>
         <marker style={{ color: "blue" }}>React</marker>- это библиотека
         JavaScript для создания UI (user interface), разработанная командой

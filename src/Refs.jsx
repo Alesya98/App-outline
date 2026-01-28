@@ -99,7 +99,7 @@ const Refs = () => {
               Пример
             </mark>
           </p>
-          <img src="../public/ref-example.png" alt="Пример Refs" />
+          <img src="/public/ref-example.png" alt="Пример Refs" />
         </div>
       </div>
       <div
@@ -127,7 +127,7 @@ const Refs = () => {
           </a>
         </div>
 
-        <img src="../public/ref.png" alt="forwardRef" />
+        <img src="/public/ref.png" alt="forwardRef" />
       </div>
 
       <div
@@ -167,7 +167,7 @@ const Refs = () => {
           </a>
         </div>
 
-        <img src="../public//strict.png" alt="StrictMode" />
+        <img src="/public//strict.png" alt="StrictMode" />
       </div>
       <div className="navigation">
         <button onClick={sendHome}>🏠 HOME</button>

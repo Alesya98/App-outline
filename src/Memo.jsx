@@ -29,7 +29,7 @@ const Memo = () => {
             функциональных компонентов. Она предотвращает ненужные повторные
             рендеры, если пропсы компонента не изменились.
           </p>
-          <img src="../public/memo.png" alt="Пример memo" loading="lazy" />
+          <img src="/public/memo.png" alt="Пример memo" loading="lazy" />
         </div>
 
         <h3>
@@ -68,7 +68,7 @@ const Memo = () => {
             ненужные ререндеры.
           </p>
           <img
-            src="../public/example-memo.png"
+            src="/public/example-memo.png"
             alt="Пример memo"
             loading="lazy"
           />
@@ -120,7 +120,7 @@ const Memo = () => {
           </a>
         </div>
 
-        <img src="../public/example-memo1.png" alt="Пример" />
+        <img src="/public/example-memo1.png" alt="Пример" />
       </div>
 
       <div
@@ -170,7 +170,7 @@ const Memo = () => {
           </a>
         </div>
 
-        <img src="../public/example-usecallback.png" alt="пример" />
+        <img src="/public/example-usecallback.png" alt="пример" />
       </div>
       <div className="navigation">
         <button onClick={sendHome}>🏠 HOME</button>
