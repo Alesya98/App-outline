@@ -85,7 +85,7 @@ const State = () => {
       </button>
       {example && (
         <img
-          src="/public/example.png"
+          src="/example.png"
           alt="пример"
           loading="lazy"
           style={{

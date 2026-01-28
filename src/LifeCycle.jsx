@@ -78,7 +78,7 @@ const LifeCycle = () => {
 
       <p style={{ textAlign: "center" }}>Пример</p>
       <img
-        src="/public/lifeCycle.png"
+        src="/lifeCycle.png"
         alt="Жизненный цикл"
         loading="lazy"
         style={{
